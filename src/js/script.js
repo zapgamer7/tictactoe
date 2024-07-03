@@ -1,4 +1,6 @@
 let vezDoX = true
+let gameState = [null, null, null, null, null, null, null, null, null]
+
 
 function getEl(element){
     return document.querySelector(element);
